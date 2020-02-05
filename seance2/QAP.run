@@ -1,0 +1,3 @@
+model QAP.mod;
+data QAP.dat;
+option solver cplex, solution_round 6;
